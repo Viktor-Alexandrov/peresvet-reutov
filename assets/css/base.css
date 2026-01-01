@@ -77,7 +77,6 @@ button.navbar-toggler:active {
 .txt-menu {
   font-family: 'miroslav', sans-serif;
   color: rgb(172, 170, 170);
-  border-bottom: 1px solid white;
   text-shadow: 1px 1px 1px black;
 }
 
