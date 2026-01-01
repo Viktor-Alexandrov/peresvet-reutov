@@ -104,6 +104,7 @@ main {
   padding-bottom: 150px;
   font-family: 'miroslav', sans-serif;
   font-size: .9rem;
+  color: rgb(116, 29, 29);
 }
 
 h2 {
@@ -116,6 +117,7 @@ h2 {
 
 .text-en {
   font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 
 .footer {
