@@ -91,7 +91,7 @@ main {
 .img-container {
   width: 90%;
   height: 100%;
-  background-image: url(../images/parchment.svg); /* Ваш URL изображения */
+  background-image: url(../images/parchment.png); /* Ваш URL изображения */
   background-size: 100% 100%; /* Масштабируем изображение, чтобы покрыть весь экран */
   background-position: top center; /* Центрируем изображение */
   background-repeat: no-repeat; /* Избежим повторения */
