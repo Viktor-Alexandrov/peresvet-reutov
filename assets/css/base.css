@@ -82,13 +82,14 @@ button.navbar-toggler:active {
 
 main {
   background-image: linear-gradient(to bottom, #333, #ccc);
-  padding-top: 5%;
+  padding-top: 2%;
   padding-left: 15px;
-  /* margin-right: 5%; */
 }
 
 .img-container {
   width: 90%;
+  margin: 0 auto;
+  max-width: 1000px;
   height: 100%;
   background-image: url(../images/parchment.png); /* Ваш URL изображения */
   background-size: 100% 100%; /* Масштабируем изображение, чтобы покрыть весь экран */
@@ -109,9 +110,15 @@ main {
 h2 {
   text-align: center;
   font-family: 'miroslav', sans-serif;
-  letter-spacing: 1px;
+  font-size: 1.2rem;
   color: brown;
   text-shadow: 1px 1px 1px black;
+}
+
+.h2-other {
+  color: #8b97a1;
+  text-shadow: 1px 1px 1px black;
+  letter-spacing: 1px;
 }
 
 .text-en {
